@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 - 🔭 I’m currently working on my Ph.D. in Physical Chemistry
 - 🌱 My research is to harness computers to 🔎 opioids in the 🧠
