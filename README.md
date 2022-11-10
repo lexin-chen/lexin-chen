@@ -9,7 +9,7 @@
 <h3 align="center">
     <p>About</p>
     </h3>
-<p> - 🔭 I’m currently working on my Ph.D. in Physical Chemistry.<p/>
+<p> - 🧪 I’m currently working on my Ph.D. in Physical Chemistry.<p/>
 <p> - 🌱 her research is on building algorithms to analyze the molecular similarity of large datasets with applications to drug discovery. <p/>
 
 <h3 align="center">
