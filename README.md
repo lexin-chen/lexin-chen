@@ -15,7 +15,7 @@
 <p> - 🌱 My research is on building algorithms to analyze the molecular similarity of large datasets with applications to drug discovery. <p/>
 
 <h3 align="center">
-    <p>Coding Languages</p>
+    <p>Programming Languages</p>
     </h3>
     <p align="center">
 <a href="#"><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
