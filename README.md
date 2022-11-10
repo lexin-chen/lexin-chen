@@ -18,5 +18,6 @@
     <p>Coding Languages</p>
     </h3>
     <p align="center">
-<a href="#"><img alt="Google Scholar" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="Shell Script" />&nbsp;</a>
+<a href="#"><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#"><img alt="" src="https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label="></a>
+<a href="#"><img alt"" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="Shell Script" />&nbsp;</a>
