@@ -13,7 +13,7 @@
     </h3>
 <p> - 🧪 I am currently working on my Ph.D. in Physical Chemistry.<p/>
 <p> - 🌱 My research is on building algorithms to analyze the molecular similarity of large datasets with applications to drug discovery. <p/>
-<p> - 💓 Research interest lies in Cheminformatics, Data Mining, and Computer Aided Drug Design (CADD). <p/>
+<p> - 💓 Research interest lies in Cheminformatics, Data Mining, and Computer Aided Drug Design. <p/>
 
 <h3 align="center">
     <p>Programming Languages</p>
