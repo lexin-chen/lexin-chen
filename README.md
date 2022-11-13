@@ -14,7 +14,7 @@
 <p> - 🧪 I am currently working on a Ph.D. in Physical Chemistry.<p/>
 <p> - 🌱 My research is on building algorithms to analyze the molecular similarity of large datasets with applications to drug discovery. <p/>
 <p> - 💚 Research interest lies in Cheminformatics, Data Mining, and Computer Aided Drug Design. <p/>
-<p> - 🎄 Outside of work, I enjoy doing photography, home decors, and investing. <p/>
+<p> - 🎄 Outside of work, I enjoy doing photography, home decors, learning world history, and investing. <p/>
 
 <h3 align="center">
     <p>Programming Languages</p>
