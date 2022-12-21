@@ -1,4 +1,4 @@
-### Welcome👋
+### Welcome, I am Lexin👋
 
 <a href="https://www.linkedin.com/in/lexinc/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Lexin%20Chen-0B65C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lexinc/"></a>
 <a href="https://scholar.google.com/citations?user=eQoWP6oAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/-Lexin_Chen-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=eQoWP6oAAAAJ&hl=en"></a>
