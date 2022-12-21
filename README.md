@@ -5,8 +5,7 @@
 <a href="https://orcid.org/0000-0002-9528-942X"><img alt="Orcid" src="https://img.shields.io/badge/-Lexin_Chen-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-9528-942X"></a>
 <a href="https://twitter.com/lexinc_"><img alt="Twitter" src="https://img.shields.io/badge/-lexinc__-188CD8?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lexinc_/"></a> 
 <a href="http://vsco.co/-lexin"><img alt="VSCO" src="https://img.shields.io/badge/---lexin-000000?style=flat-square&logo=vsco&logoColor=white&link=https://vsco.co/-lexin/"></a>
-    
-<br/>
+
 <h3 align="center">
     <p>About</p>
     </h3>
