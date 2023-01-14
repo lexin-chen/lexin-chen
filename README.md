@@ -13,12 +13,3 @@
 <p> - 🌱 My research is on building algorithms to analyze the molecular similarity of large datasets with applications to drug discovery. <p/>
 <p> - 💚 Research interest lies in Cheminformatics, Data Mining, and Computer Aided Drug Design. <p/>
 <p> - 🎄 In my free time, I enjoy doing photography, pilates, learning world history, and investing. <p/>
-<!--
-<h3 align="left">
-    <p>Programming Languages</p>
-    </h3>
-    <p align="left">
-<a href="#"><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="#"><img alt="" src="https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label="></a>
-<a href="#"><img alt"" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="Shell Script" />&nbsp;</a>
--->
