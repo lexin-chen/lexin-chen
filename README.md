@@ -6,7 +6,7 @@
 <a href="https://twitter.com/lexinc_"><img alt="Twitter" src="https://img.shields.io/badge/-lexinc__-188CD8?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lexinc_/"></a> 
 <a href="http://vsco.co/-lexin"><img alt="VSCO" src="https://img.shields.io/badge/---lexin-000000?style=flat-square&logo=vsco&logoColor=white&link=https://vsco.co/-lexin/"></a>
 <a href="https://twitter.com/lexinc_"><img alt="Twitter" src="https://img.shields.io/badge/-lexinc__-188CD8?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lexinc_/"></a> 
-<a href="https://lexin-chen.github.io/"><img alt="VSCO" src="https://img.shields.io/badge/lexin--chen-000000?logo=data:image/onemorpink2.png?style=flat-square&logo=vsco&logoColor=white&link=https://lexin-chen.github.io/"></a>
+<a href="https://lexin-chen.github.io/"><img alt="VSCO" src="https://img.shields.io/badge/lexin--chen-0047ab?logo=data:image/onemorpink2.png &logoColor=white&link=https://lexin-chen.github.io/"></a>
 
 <h3 align="center">
     <p>About</p>
