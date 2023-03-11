@@ -9,7 +9,7 @@
 <h3 align="center">
     <p>About</p>
     </h3>
-<p> 💠 Currently gambling my net worth being in grad school.<p/>
+<p> 💠 Ph.D. student in [Miranda Quintana Group](https://quintana.chem.ufl.edu/) at University of Florida.<p/>
 <p> 💠 My research is to build algorithms to analyze the molecular similarity of large datasets with applications to molecular dynamics and drug discovery. <p/>
 <p> 💠 Research interest lies in data mining, computer aided drug design, and chemoinformatics. <p/>
 <p> 💠 In my free time, I enjoy doing photography, pilates, learning world history, and investing. <p/>
