@@ -9,7 +9,7 @@
 <h3 align="center">
     <p>About</p>
     </h3>
-<p> 🪄 Ph.D. student in <a href="https://quintana.chem.ufl.edu/" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a> at University of Florida.<p/>
-<p> 🪄 My research is to build algorithms to analyze the molecular similarity of large datasets with applications to molecular dynamics and drug discovery. <p/>
-<p> 🪄 Research interest lies in data mining, computer aided drug design, and chemoinformatics. <p/>
-<p> 🪄 In my free time, I enjoy doing photography, pilates, learning world history, and investing. <p/>
+<p> 💠 Ph.D. student in <a href="https://quintana.chem.ufl.edu/" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a> at University of Florida.<p/>
+<p> 💠 My research is to build algorithms to analyze the molecular similarity of large datasets with applications to molecular dynamics and drug discovery. <p/>
+<p> 💠 Research interest lies in data mining, computer aided drug design, and chemoinformatics. <p/>
+<p> 💠 In my free time, I enjoy doing photography, pilates, learning world history, and investing. <p/>
