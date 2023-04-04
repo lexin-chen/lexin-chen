@@ -13,3 +13,9 @@
 <p> 💠 My research is to build algorithms to analyze the molecular similarity of large datasets with applications to molecular dynamics and drug discovery. <p/>
 <p> 💠 Research interest lies in data mining, computer aided drug design, and chemoinformatics. <p/>
 <p> 💠 In my free time, I enjoy doing photography, pilates, learning world history, and investing. <p/>
+&nbsp
+<h3 align="center">
+    <p>Interested in custom-made science art for publications?</p>
+    </h3>
+<p> 🪄 Open for commissions, please contact me le.chen *at* ufl *dot* edu if you want custom-made images or animations. 
+<p> 🪄 <a href="https://lexin-chen.github.io/">Click for Portfolio.</a>
