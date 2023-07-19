@@ -11,7 +11,7 @@
     <p>About</p>
     </h3>
 <p> 💠 Ph.D. student in <a href="https://quintana.chem.ufl.edu/" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a> at University of Florida with a focus in computational chemistry and data science.<p/>
-<p> 💠 My research is developing algorithms for clustering, sampling (rare events), data analysis of Molecular simulations, and solvation. <p/>
+<p> 💠 My research is developing algorithms for clustering, data analysis of Molecular simulations, sampling (rare events), and solvation. <p/>
 &nbsp
 <h3 align="center">
     <p>Interested in custom-made science art for presentation or publications?</p>
