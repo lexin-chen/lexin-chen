@@ -16,5 +16,5 @@
 <h3 align="center">
     <p>Interested in custom-made science art for presentation or publications?</p>
     </h3>
-<p> 💠 Open for commissions, please contact me <b>le.chen <i>at</i> ufl <i>dot</i> edu</b> for custom-made images & animations. 
+<p> 💠 Open for commissions, please contact me <b>le.chen <i>at</i> ufl.edu</b> for custom-made images & animations. 
 <p> 💠 <a href="https://lexin-chen.github.io/">Click for Portfolio.</a>
