@@ -12,9 +12,5 @@
     </h3>
 <p> 💠 Ph.D. student in <a href="https://quintana.chem.ufl.edu/" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a> at University of Florida with a focus in computational chemistry and data science.<p/>
 <p> 💠 My research is developing algorithms for clustering, data analysis of Molecular simulations, sampling (rare events), and solvation. <p/>
-&nbsp
-<h3 align="center">
-    <p>Interested in custom-made science art for presentation or publications?</p>
-    </h3>
-<p> 💠 Open for commissions, please contact me <b>le.chen <i>at</i> ufl.edu</b> for custom-made images & animations. 
-<p> 💠 <a href="https://lexin-chen.github.io/">Click for Portfolio.</a>
+<p> 💠 Outside of research, I am devoted to outreach toward diversity in STEM and stimulating scientific curiosity. 
+<p> 💠 I am also an artist & animator of biomolecules. Open for commissions. <b>le.chen <i>dot</i> ufl.edu</b> | <a href="https://lexin-chen.github.io/">Click for Portfolio.</a></p>
