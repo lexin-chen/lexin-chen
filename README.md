@@ -8,9 +8,7 @@
 <!--<img alt="website" src="https://img.shields.io/github/stars/lexin-chen?style=social"></a> -->
 <!--<a href="https://orcid.org/0000-0002-9528-942X"><img alt="Orcid" src="https://img.shields.io/badge/-Lexin_Chen-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-9528-942X"></a>-->
 
-<h3 align="center">
-    <p>About</p>
-    </h3>
+<h3 align="center">About</h3>
 
 <p> 💠 Ph.D. student in <a href="https://github.com/mqcomplab" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a> at University of Florida with a focus in computational chemistry and data science.<p/>
 <p> 💠 My research is developing algorithms for clustering, data analysis of Molecular simulations, sampling (rare events), and solvation. <p/>
