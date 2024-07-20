@@ -1,7 +1,7 @@
 ### Welcome👋
 <img src="0001-0300.gif" width="220" height="308" align="right"></a>
 <a href="https://www.linkedin.com/in/lexinc/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-Lexin%20Chen-0B65C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lexinc/"></a>
-<a href="https://twitter.com/lexinc_" target="_blank" rel="noopener noreferrer"><img alt="Twitter" src="https://img.shields.io/badge/-lexinc__-188CD8?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/lexinc_/"></a> 
+<a href="https://twitter.com/lexinc_" target="_blank" rel="noopener noreferrer"><img alt="Twitter" src="https://img.shields.io/badge/-lexinc__-000000?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/lexinc_/"></a> 
 <a href="https://scholar.google.com/citations?user=eQoWP6oAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><img alt="Google Scholar" src="https://img.shields.io/badge/-Lexin_Chen-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=eQoWP6oAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"></a>
 <a href="http://vsco.co/-lexin" target="_blank" rel="noopener noreferrer"><img alt="VSCO" src="https://img.shields.io/badge/---lexin-ffffff?style=flat-square&logo=vsco&logoColor=black&link=https://vsco.co/-lexin/"></a>
 <a href="https://lexin-chen.github.io/" target="_blank" rel="noopener noreferrer"><img alt="website" src="https://img.shields.io/badge/lexin--chen.github.io-0047ab?logo=data:image/onemorpink2.png &logoColor=white&link=https://lexin-chen.github.io/"></a>
