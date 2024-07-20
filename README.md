@@ -13,4 +13,4 @@
 <p> 💠 PhD Candidate in <a href="https://github.com/mqcomplab" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a> at the University of Florida with a focus on computational chemistry and data science.<p/>
 <p> 💠 My research is developing algorithms for clustering, data analysis of molecular simulations, sampling (rare events), and solvation. <p/>
 <p> 💠 Outside of research, I am devoted to outreach toward diversity in STEM and stimulating scientific curiosity. 
-<p> 💠 I am also an artist & animator of biomolecules. Open for commissions. <b>le.chen <i>dot</i> ufl.edu</b> | <a href="https://lexin-chen.github.io/">Click for Portfolio.</a></p>
+<p> 💠 I am also an artist & animator of biomolecules. </p>
