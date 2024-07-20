@@ -1,4 +1,5 @@
 ### Welcome👋
+<h3 align="center">
 <img src="0001-0300.gif" width="220" height="308" align="right"></a>
 <a href="https://www.linkedin.com/in/lexinc/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-Lexin%20Chen-0B65C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lexinc/"></a>
 <a href="https://twitter.com/lexinc_" target="_blank" rel="noopener noreferrer"><img alt="Twitter" src="https://img.shields.io/badge/-lexinc__-000000?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/lexinc_/"></a> 
@@ -8,7 +9,8 @@
 <!--<img alt="website" src="https://img.shields.io/github/stars/lexin-chen?style=social"></a> -->
 <!--<a href="https://orcid.org/0000-0002-9528-942X"><img alt="Orcid" src="https://img.shields.io/badge/-Lexin_Chen-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-9528-942X"></a>-->
 
-<h3 align="center">About</h3>
+</h3>
+&nbsp
 
 <p> 💠 PhD Candidate in <a href="https://github.com/mqcomplab" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a> at the University of Florida with a focus on computational chemistry and data science.<p/>
 <p> 💠 My research is developing algorithms for clustering, data analysis of molecular simulations, sampling (rare events), and solvation. <p/>
