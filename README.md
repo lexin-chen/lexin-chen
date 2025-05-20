@@ -9,6 +9,8 @@
 <a href="https://scholar.google.com/citations?user=eQoWP6oAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><img alt="Google Scholar" src="https://img.shields.io/badge/-Lexin_Chen-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=eQoWP6oAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"></a>
 <a href="http://vsco.co/-lexin" target="_blank" rel="noopener noreferrer"><img alt="VSCO" src="https://img.shields.io/badge/---lexin-ffffff?style=flat-square&logo=VSCO&logoColor=black&link=https://vsco.co/-lexin/"></a>
 
+<img src="0001-0300.gif" width="220" height="308" align="right"></a>
+
 </h3>
 &nbsp
 
