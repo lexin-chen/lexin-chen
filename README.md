@@ -11,7 +11,6 @@
 **Skills:** Python, Cheminformatics, ML, HPC, Molecular Dynamics
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexin-chen&layout=compact)](https://github.com/lexin-chen)
 
 📫 **Let's connect:** 
 <a href="https://lexin-chen.github.io/" target="_blank" rel="noopener noreferrer">My Website</a>
