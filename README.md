@@ -5,7 +5,6 @@
 <p> 🔬 computational chemist focused on high-performance algorithms for scientific discovery<p/>
 <p> ⚡ Architected MDANCE: Novel clustering engine with >25x speedup for million-scale molecular libraries<p/>
 <p> 🧠 ML for Drug Discovery: Built DELight framework to solve extreme class imbalance in screening data<p/>
-<p> 🏭 Industry Experience: Enhanced Schrödinger's Glide docking software, improving reliability<p/>
 <p> 🎨 I am also an artist & animator of biomolecules. </p>
 
 **Skills:** Python, Cheminformatics, ML, HPC, Molecular Dynamics
