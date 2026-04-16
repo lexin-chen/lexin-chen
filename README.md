@@ -1,11 +1,10 @@
 ## Welcome 👋
 <img src="0001-0300.gif" width="220" height="308" align="right"></a>
 
-#### Computational Chemistry | Software Development | Machine Learning
-<p> 🔬 computational chemist focused on high-performance algorithms for scientific discovery<p/>
-<p> ⚡ Architected MDANCE: Novel clustering engine with >25x speedup for million-scale molecular libraries<p/>
-<p> 🧠 ML for Drug Discovery: Built DELight framework to solve extreme class imbalance in screening data<p/>
-<p> 🎨 artist & animator of biomolecules. </p>
+<p> 🧪 Develop computational tools for drug discovery using molecular modeling + machine learning to turn complex chemical data into actionable insights. <p/>
+<p> ⚡ Built MDANCE, an open-source clustering engine for ultra-large datasets (MD simulations, billion-compound libraries); resulted in 6 first-author publications (JCTC, JCIM). <p/>
+<p> 🤖 Applied ML to DEL hit identification (generalization, data leakage) and contributed to protein–ligand modeling at Schrödinger (Glide algorithm development). <p/>
+<p> 💊 At Revolution Medicines, design workflows for macrocycle drug discovery, predicting bioactive conformations and linking molecular flexibility to permeability. <p/>
 
 ---
 
