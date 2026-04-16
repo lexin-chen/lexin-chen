@@ -1,7 +1,7 @@
 ## Welcome 👋
 <img src="0001-0300.gif" width="220" height="308" align="right"></a>
 
-<p> 👋 Building tools for drug discovery using molecular modeling + ML. <p/>
+<p> 👋 Building tools for drug discovery using molecular modeling + machine learning. <p/>
 <p> ⚡ Creator of MDANCE (open-source clustering for large-scale chemical data); 6 first-author papers. <p/>
 <p> 🤖 Experience in using machine learning for DNA-Encoded Libraries hit identification. <p/>
 <p> 💊 At Revolution Medicines, I design workflows for macrocycle drug discovery, predicting bioactive conformations and linking molecular flexibility to permeability. <p/>
